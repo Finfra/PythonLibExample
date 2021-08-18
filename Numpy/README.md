@@ -1,7 +1,9 @@
 # Numpy
 
-## [Intro](./01_Numpy_Intro.ipynb)
+## - [개요](./_memo_python_np.md)
 
-## [Function](./02_Numpy_Function.ipynb)
+## - [Intro](./01_Numpy_Intro.ipynb)
 
-## [Matrix](./03_Numpy_Matrix.ipynb)
+## - [Function](./02_Numpy_Function.ipynb)
+
+## - [Matrix](./03_Numpy_Matrix.ipynb)
