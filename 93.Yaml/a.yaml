@@ -1,0 +1,6 @@
+---
+info:
+  project_name: "test"
+paths:
+  base_path: "/tmp"
+  folder_of_orignal: "1.orignal_y5"
